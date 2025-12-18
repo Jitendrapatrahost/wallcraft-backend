@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": "nature",
+      "name": "Nature",
+      "thumbnail": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/categories/nature.jpg"
+    },
+    {
+      "id": "cars",
+      "name": "Cars",
+      "thumbnail": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/categories/cars.jpg"
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "thumbnail": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/categories/anime.jpg"
+    },
+    {
+      "id": "abstract",
+      "name": "Abstract",
+      "thumbnail": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/categories/abstract.jpg"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "thumbnail": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/categories/space.jpg"
+    }
+  ],
+
+  "wallpapers": [
+    {
+      "id": "n1",
+      "category": "nature",
+      "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/nature/nature_01.jpg"
+    },
+    {
+      "id": "n2",
+      "category": "nature",
+      "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/nature/nature_02.jpg"
+    },
+    {
+      "id": "c1",
+      "category": "cars",
+      "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/cars/cars_01.jpg"
+    },
+    {
+      "id": "a1",
+      "category": "anime",
+      "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/anime/anime_01.jpg"
+    },
+    {
+      "id": "s1",
+      "category": "space",
+      "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/space/space_01.jpg"
+    }
+  ]
+}
