@@ -39,6 +39,11 @@
       "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/nature/Nature1.jpg"
     },
     {
+      "id": "n3",
+      "category": "nature",
+      "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/nature/nature02.png"
+    },
+    {
       "id": "c1",
       "category": "cars",
       "image": "https://raw.githubusercontent.com/Jitendrapatrahost/wallcraft-backend/main/wallpapers/cars/cars_01.jpg"
